@@ -44,14 +44,14 @@ RIVALS HERO STATS:
 |  | |  +- Slow Rate: 80%
 |  | |  +- Spear Health: 650
 |  | |  +- Spear Properties:
-|  | |     * Mobility abilites of enemies bound by the ribbons will be disabled.
+|  | |     * Mobility abilities of enemies bound by the ribbons will be disabled.
 |  | |     * Enemies within a certain distance around the spear will be slowed and pulled back to the center.
 |  | +- SHIELDED STANCE (RMB)
 |  | |  +- Shield Health: 350
 |  | |  +- Cooldown: 1s (dropped) - 4s (destroyed)
 |  | |  +- Shield Health Recovery: Begins recovering 60 HP/s after 2s
 |  | |  +- Damage Blocked-Charge Conversion: 35%
-|  | +- ASSASSIN'S CHARGE (LSHIFT)
+|  | +- ASSASSIN'S CHARGE (SHIFT)
 |  | |  +- Max Resource: 100
 |  | |  +- Resource Consumption: 25/s, 75/s when carrying at least 1 enemy.
 |  | |  +- Resource Cost on Activation: 20
@@ -83,14 +83,14 @@ RIVALS HERO STATS:
 |  |    +- Glide Activation Condition: Maintain forward speed faster than 5m/s for 1s
 |  |    +- Movespeed: 10m/s
 |  |    +- Attack Charge Gained: 22.2/s
-|  +-TEAMUPS
-|  | + LOKI TEAMUP (C)
+|  +-TEAM-UPS
+|  | + LOKI TEAM-UP (C)
 |  | |  +- Base Effect:
 |  | |  |  +- Cooldown: 20s
 |  | |  |  +- Illusion Health: 150
 |  | |  +- Enhanced Effect:
-|  | |     +- Special Effect: Teamup now has 2 charges.
-|  | + STAR-LORD TEAMUP (C)
+|  | |     +- Special Effect: TEAM-UP now has 2 charges.
+|  | + STAR-LORD TEAM-UP (C)
 |      + Base Effect:
 |      |  +- Cooldown: 25s
 |      |  +- Reveal Range: 50m spherical Radius.
@@ -109,3 +109,71 @@ RIVALS HERO STATS:
 |  |   +- Casting: Melee/Projectile
 |  |   +- Damage: Melee: 45, Shield Throw: 45
 |  |   +- Range: Melee: 4m, Shield Throw: 25m
+|  |   +- Attack Interval: [Melee] First Strike: 0.4s, Second Strike: 0.5s
+|  |   |                   [Shield Throw] First Throw: 0.5s, Second Throw: 0.57s
+|  |   +- Shield Throw Charges: 4
+|  |   +- Shield Throw Projectile Speed: 60m/s
+|  |   +- Special Effects: * After landing 2 melee strikes, enable a 5-second window of time to use 4 shield throw attacks.
+|  |   |                   * The shield homes in on targets near the player's crosshair.
+|  |   |                   * Melee attacks can be bound seperately from using shield throw attacks.
+|  +-ABILITES
+|  | +- FREEDOM CHARGE (Q)
+|  | |  +- Casting: Activation
+|  | |  +- Energy Cost: 3100
+|  | |  +- Duration: 10s
+|  | |  +- Path radius: Spherical spell field with a 4m radius enveloping the caster, and a spell area with a width of 4m along the path.
+|  | |  +- Path Duration: 5s
+|  | |  +- Bonus Health on Activation: Self: 150, Ally: 100
+|  | |  +- Bonus Health Rate: Self: 100/s, Ally: 60/s
+|  | |  +- Movement Boost: 30%
+|  | |  +- Ult Charge Efficiency Boost: 20%
+|  | +- SUPER-SOLDIER SLAM (LMB)
+|  | |  +- Casting: Ground Target
+|  | |  +- Damage: 30
+|  | |  +- Cooldown: 12s
+|  | |  +- Max Target Distance: 20m (horizontal)
+|  | +- LIVING LEGEND (RMB)
+|  | |  +- Casting: Channeled
+|  | |  +- Shield Health: 350
+|  | |  +- Cooldown: 1s (dropped) - 5s (destroyed
+|  | |  +- Shield Health Recovery: Begins recovering 50 HP/s after 4s
+|  | |  +- Deflected Projectile Dmage Loss: 50%
+|  | |  +- Special Effect: Inflicts a minor movespeed penalty while the shield is raised.
+|  | +- LEADING DASH (SHIFT)
+|  | |  +- Casting: Channeled
+|  | |  +- Movement Boost: 33.40%
+|  | |  +- Fearless Leap Jump Height: 5m
+|  | +- VIBRANIUM ENERGY SAW (E)
+|  | |  +- Casting: Ricocheting Projectile.
+|  | |  +- Base Damage: 70
+|  | |  +- Damage Loss: 20% per bounce.
+|  | |  +- Cooldown: 6s
+|  | |  +- Projectile Range: 25m
+|  | |  +- Projectile Speed: 60m/s
+|  | |  +- Max Ricochets: 3
+|  | +- LIBERTY RUSH (F)
+|  |    +- Casting: Dash
+|  |    +- Damage: 30
+|  |    +- Cooldown: 10s
+|  |    +- Dash Distance: 12m
+|  |    +- Special Effect: Gain Unstoppable during the dash.
+|  +-TEAM-UPS
+|    +- THOR TEAMUP (C)
+|    |  +- Base Effect:
+|    |  |  +- Cooldown: 15s
+|    |  |  +- Duration: 10s
+|    |  |  +- Lightning Shield Throw Damage: 45
+|    |  +- Enhanced Effect:
+|    |     +- Splash Damage: 5
+|    |     +- Splash Damage Range: 3m spherical radius
+|    +- WINTER SOLDIER TEAMUP (C)
+|       +- Base Effect:
+|       |  +- Cooldown: 12s
+|       |  +- Bonus Health Gained: 150 (self and ally)
+|       |  +- Damage Absorption Duration: 2s
+|       |  +- Special Effect: Gain a short boost of movement speed after landing.
+|       +- Enhanced Effect:
+|          +- Movement Boost: 1.5m/s
+|
++- DEADPOOL (TANKPOOL)
+| TBA```````````
