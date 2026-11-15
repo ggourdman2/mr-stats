@@ -1,0 +1,111 @@
+DISCLAIMER:
+This was made for the community, to have a quick document to search for their hero's stats.
+This was only made by 1 PERSON, so please be nice and accept that typos may occur.
+Any changes/additions will be helpful.
+
+I have used the wiki @ https://marvelrivals.fandom.com so please give them a shout-out for their work.
+Any copyright issues or others please email petkov.dan03@gmail.com 
+
+Thank you.
+
+RIVALS HERO STATS:
+|
++- TANKS:
+|
++- ANGELA:
+|  |- Base Stats: Health: 350+200 Regenerative Shield
+|  |
+|  +-PRIMARIES
+|  | |
+|  | +- SPEAR OF ICHORS (LMB)
+|  | |   +- Casting: Melee
+|  | |   +- Base Damage: 45
+|  | |   +- Charge-Damage Conversion: 35%
+|  | |   +- Range: 7m
+|  | |   +- Attack Interval: 0.96s
+|  | |   +- Special Effect: At full charge, Spear of Ichors can launch up enemies and deals 20 bonus damage.
+|  | |
+|  | +- AXES OF ICHORS (LMB)
+|  |     +- Casting: Melee
+|  |     +- Base Damage: First 3 Strikes: 35. 4th Strike: 50
+|  |     +- Charge-Damage Conversion: 45%
+|  |     +- Range: 4m
+|  |     +- Attack Interval: First 3 strikes: 0.4s. 4th strike: 0.6s.
+|  |     +- Special Effect: The 4th strike performs a lunging attack
+|  |
+|  +-ABILITIES
+|  | +- HEVEN'S RETRIBUTION (Q)
+|  | |  +- Energy Cost: 3100
+|  | |  +- Projectile Speed: 60m/s
+|  | |  +- Spear Impact Damage: Projectile: 30, Spell Field: 40
+|  | |  +- Spell Field Range: 8m spherical radius
+|  | |  +- Leap Damage: 100
+|  | |  +- Leap Spell Field Range: 8m spherical radius
+|  | |  +- Slow Rate: 80%
+|  | |  +- Spear Health: 650
+|  | |  +- Spear Properties:
+|  | |     * Mobility abilites of enemies bound by the ribbons will be disabled.
+|  | |     * Enemies within a certain distance around the spear will be slowed and pulled back to the center.
+|  | +- SHIELDED STANCE (RMB)
+|  | |  +- Shield Health: 350
+|  | |  +- Cooldown: 1s (dropped) - 4s (destroyed)
+|  | |  +- Shield Health Recovery: Begins recovering 60 HP/s after 2s
+|  | |  +- Damage Blocked-Charge Conversion: 35%
+|  | +- ASSASSIN'S CHARGE (LSHIFT)
+|  | |  +- Max Resource: 100
+|  | |  +- Resource Consumption: 25/s, 75/s when carrying at least 1 enemy.
+|  | |  +- Resource Cost on Activation: 20
+|  | |  +- Resource Recovery: 12.5/s (begins 2s after ability ends).
+|  | |  +- Minimum Resource to Activate: 30
+|  | |  +- Collision Damage: 30
+|  | |  +- Cooldown: 4s
+|  | |  +- Movespeed: 18m/s
+|  | |  +- Max Enemies Carried: 2
+|  | |  +- Attack Charge Gained: 25/s, 50/s for every enemy carried.
+|  | +- DIVINE JUDGEMENT (E)
+|  | |  +- Landing Damage: 30
+|  | |  +- Divine Judgement Zone Damage: 15/s
+|  | |  +- Divine Judgement Zone Range:	Cylindrical spell field with an 8m radius and 2m height
+|  | |  +- Cooldown: 12s
+|  | |  +- Movement Boost: 35%
+|  | |  +- Bonus Health Gained per Hit: Self: 55, Ally: 25
+|  | |  +- Max Bonus Health: 200
+|  | |  +- Special Effect: For 6 seconds after landing, Angela gains a Movement Boost and grants Bonus Health to herself 
+|  | |     and nearby allies when landing hits with Axes of Ichors.
+|  | +- WINGBLADE ASCENT (E)
+|  | |  +- Ascension Height: 8m
+|  | |  +- Ascension Duration: 0.35s
+|  | |  +- Ascension Elevation Angle: 60*
+|  | |  +- Special Effect: Using this ability automatically ends the duration for the active buffs granted by Divine Judgement
+|  | |
+|  | +- SERAPHIC SOAR (PASSIVE)
+|  |    +- Time to Enter Glide: 0.1s
+|  |    +- Glide Activation Condition: Maintain forward speed faster than 5m/s for 1s
+|  |    +- Movespeed: 10m/s
+|  |    +- Attack Charge Gained: 22.2/s
+|  +-TEAMUPS
+|  | + LOKI TEAMUP (C)
+|  | |  +- Base Effect:
+|  | |  |  +- Cooldown: 20s
+|  | |  |  +- Illusion Health: 150
+|  | |  +- Enhanced Effect:
+|  | |     +- Special Effect: Teamup now has 2 charges.
+|  | + STAR-LORD TEAMUP (C)
+|      + Base Effect:
+|      |  +- Cooldown: 25s
+|      |  +- Reveal Range: 50m spherical Radius.
+|      |  +- Ground Slam Spell Field Range: 10m spherical radius.
+|      |  +- Ground Slam Damage: 65
+|      |  +- Ground Slam Earthbound Duration: 2s
+|      + Enhanced Effect:
+|         +- Bonus Health Gained: 75 per enemy hit.
+|         +- Max Bonus Health: 200
+|
++- CAPTAIN AMERICA:
+|  +- Base Stats: 350 + 300 Regenerative Shield
+|  |
+|  +-PRIMARIES
+|  | +- SENTINEL STRIKE (LMB)
+|  |   +- Casting: Melee/Projectile
+|  |   +- Damage: Melee: 45, Shield Throw: 45
+|  |   +- Range: Melee: 4m, Shield Throw: 25m
